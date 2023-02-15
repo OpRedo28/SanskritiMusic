@@ -10,7 +10,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "16157631"))
 API_HASH = getenv("API_HASH", "4c585632f990d84ac0bf7e881f49ebeb")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "5941878536:AAER2R0gnbcwy-1QNjSviPGocGMBjeJWCjk")
+BOT_TOKEN = getenv("BOT_TOKEN", "6135755189:AAG0hlUbR8URslfkO9TNrAp2BSHxQtM4W9g")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
@@ -24,10 +24,10 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001833637415"))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "ʀᴀᴅʜᴀ ʀᴀɴɪ ダ ᴍᴜsɪᴄ​")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "ᴍᴇᴍᴄᴄʜɪ ダ ᴍᴜsɪᴄ​")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5905415548").split())
+    map(int, getenv("OWNER_ID", "6127522753").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -45,7 +45,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/YTnobi")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/NOBIKIMEHFIL")
+    "SUPPORT_GROUP", "https://t.me/memcchiclub")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -103,11 +103,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/d810f4a884c18f3ee861d.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/1e61f8ee34615045a1e28.mp4")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/6722c779d19308a1a4236.jpg",
+    "https://telegra.ph/file/c998dae9cdd46fcf47168.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
