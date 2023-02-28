@@ -36,7 +36,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://t.me/Mr_Nihal9",
+    "https://github.com/Nihal2872/MemcchiH",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
