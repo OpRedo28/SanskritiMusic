@@ -24,10 +24,10 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001833637415"))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "ᴍᴇᴍᴄᴄʜɪ ダ ᴍᴜsɪᴄ​")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "ɪɴғʟᴇx ダ ᴍᴜsɪᴄ​")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6127522753").split())
+    map(int, getenv("OWNER_ID", "6273744656").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -36,16 +36,16 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Nihal2872/MemcchiH",
+    "https://github.com/Nihal2872/CrazyInflex",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/YTnobi")
+    "SUPPORT_CHANNEL", "https://t.me/+G_3nLj7saaQ1NDA1")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/memcchiclub")
+    "SUPPORT_GROUP", "https://t.me/+G_3nLj7saaQ1NDA1")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
