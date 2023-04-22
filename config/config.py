@@ -36,11 +36,11 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Nihal2872/CrazyInflex",
+    "https://github.com/Nihal2872/RockhushMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
-GIT_TOKEN = getenv("GIT_TOKEN", "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")
+GIT_TOKEN = getenv("GIT_TOKEN", "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")
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/+G_3nLj7saaQ1NDA1")
