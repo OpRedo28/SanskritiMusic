@@ -30,7 +30,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6162248272:AAFUjUr_TXSToMnp2ES7G-_02ES-bmEcB5Q",
         "required": true
       },
       "DURATION_LIMIT_MIN": {
@@ -40,7 +40,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://bsdk:betichod@cluster0.fgj1r9z.mongodb.net/?retryWrites=true&w=majority",
         "required": false
       },
       "AUTO_DOWNLOADS_CLEAR": {
@@ -70,17 +70,17 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQAacufznBw-xqqHadmzVn9KlfZmiTKsAq-BwMQk892DLNKGiQwxLRUhYPE0iYkVEy9Mfqd1mv2YYDsCikv7Mut1Qnar5uE9F_srXbvloN2GzgXo_DE05m_dt-_lpMVj7mBFVfN9UOofb7bXvpLds2G9eGxU-im6orrVC1KjuI1rQ9qGTyPu9ov3s-X4b0nhoduAmieb5n8dVBpqs-gR3jL100otKQ6fEJbRjl5PFeTcIwcPhVy5zj8m2JBON0Q1CgMkqJdoWnw-kjbqTu4GaiRr5xhjft48x7y0RefhWFUyIIamovHJzizTSutVLoh3GCZSmd_Tpeem0BKoOHswJiqFAAAAAXJkNqUA",
         "required": true
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "https://telegra.ph/file/4bd36e10d29ba314181ef.jpg",
+        "value": "https://te.legra.ph/file/ccd33040b2cd8198e25cb.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "https://telegra.ph/file/4bd36e10d29ba314181ef.jpg",
+        "value": "https://te.legra.ph/file/ccd33040b2cd8198e25cb.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -95,17 +95,17 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001939838282",
+        "value": "-1001909841176",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/about_rockhush",
+        "value": "https://t.me/achawalachannel",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/about_rockhush",
+        "value": "https://t.me/rockhushh",
         "required": false
       }
     },
