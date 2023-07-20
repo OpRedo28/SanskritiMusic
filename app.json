@@ -50,7 +50,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ʀᴏᴄᴋʜᴜsʜ ダ ᴍᴜsɪᴄ",
+        "value": "sᴀɴsᴋʀɪᴛɪ ダ ᴍᴜsɪᴄ",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -100,7 +100,7 @@
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/achawalachannel",
+        "value": "https://t.me/mood_wali_vibes",
         "required": false
       },
       "SUPPORT_CHANNEL": {
