@@ -30,7 +30,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6162248272:AAFUjUr_TXSToMnp2ES7G-_02ES-bmEcB5Q",
+        "value": "5997386623:AAFvcSHmXb2j_e-PkNukLxwguJRSOrABG9o",
         "required": true
       },
       "DURATION_LIMIT_MIN": {
@@ -50,7 +50,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "sᴀɴsᴋʀɪᴛɪ ダ ᴍᴜsɪᴄ",
+        "value": "˹ʀᴏᴄᴋʜᴜsʜ ꭙ ꝛσʙσᴛ˼",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -65,22 +65,22 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "6189566023",
+        "value": "6330290799",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "BQALDkydy1pKhUul96NINNk6cvkcTV-toQLiDADOEU1QNlRV4HUNsOh9OUa7mpc5yHsdQO1KJ07EDv9keF2hlmAhAtnifJWN6y_41-UdAcvvZkUjlhIbwNihZK9zT2tFnLnVWNbaZVm90MoVbNXsZw8jqbm9gWWY_6AyNzqreyw1x6PXWJnq0r4MyHbMt55kqBW4kqLx1uNM8nwgGgBrgix_5jiiPcq8lDxMbi9SQKWuHQXMwnX8idn1FBVMj-J90UAZhcYoSUVKh1bFYQMADeprTRYNAVl3BoRqiI_YsP2D4zWOrwoStsdkoI3jzPWiWq9yYwfuQcTfiy_MRP9uFrnhAAAAAXJkNqUA",
+        "value": "BQAD6CZjNnNlsqzwoIuQ1ponwqzE1LYrkqZBeCvkBXfmypBXuQpVK1KNDPevOlsf3phapyXHRDEcJvuUPkmlp_FRvq8e2KLCvEzQq3x6CCphRM0b-KTGkzYYHdQIDrpNp9FAahT902SWVKQIEzt5SBfi82DBPfAzq3leL5c42c-0oZiLoYlCjlY5SUSLdrED1YM7M-mpFoKjg_FIhO3SMxZ1Uf136sDrG01hM-5N6dS6V-9nIANo1FBrASE37a-QhkClwq1QNCk2sNyRFPnLZZ6DFvtYchdTCSd0ROvpemVHvOHVH4ykukumys4CPvsngYUUWjeGfNL8SJxgjuZX6GQ1AAAAAXJkNqUA",
         "required": true
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "https://te.legra.ph/file/ccd33040b2cd8198e25cb.jpg",
+        "value": "https://te.legra.ph/file/52c71e027223b530a90c6.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "https://te.legra.ph/file/ccd33040b2cd8198e25cb.jpg",
+        "value": "https://te.legra.ph/file/52c71e027223b530a90c6.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -95,7 +95,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001909841176",
+        "value": "-1001987324988",
         "required": true
       },
       "SUPPORT_GROUP": {
