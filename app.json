@@ -70,7 +70,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "BQAD6CZjNnNlsqzwoIuQ1ponwqzE1LYrkqZBeCvkBXfmypBXuQpVK1KNDPevOlsf3phapyXHRDEcJvuUPkmlp_FRvq8e2KLCvEzQq3x6CCphRM0b-KTGkzYYHdQIDrpNp9FAahT902SWVKQIEzt5SBfi82DBPfAzq3leL5c42c-0oZiLoYlCjlY5SUSLdrED1YM7M-mpFoKjg_FIhO3SMxZ1Uf136sDrG01hM-5N6dS6V-9nIANo1FBrASE37a-QhkClwq1QNCk2sNyRFPnLZZ6DFvtYchdTCSd0ROvpemVHvOHVH4ykukumys4CPvsngYUUWjeGfNL8SJxgjuZX6GQ1AAAAAXJkNqUA",
+        "value": "BQB9WvMmkUepYXENIhYiOWrK_ueRozI-5WeHIhBRaqJ_-LZXKvcQY5vjA75vdLDR_V1fBk5Th9rIVvrQwd6_6XOWOaVWsA-lQmccDsva_sTkZn3WLzlPmYLDE_Dn3_AvsczeO597VOIpHD6zhunPBuuVI7aLQ-1C9M6lfuHcSLZHZWI69kXhEqfUFoSyVGpMxgwrCgKuZ4Rkdp0eXAk1LH910BGuNna99wFHiLecLj3l2KCzVpObEJMJp6d6Ij290C2_yE5n5NHZ4ycs_OlMET9uh5QndfNPdYl0KPIzWfPCfY-MERnbbF2W1FqeVdvEBaWVsvfUMIEAuMfMVCPjfQuMAAAAAXJkNqUA",
         "required": true
       },
       "PING_IMG_URL": {
