@@ -36,7 +36,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/OpRedo28/RockhushMusic2",
+    "https://github.com/OpRedo28/SanskritiMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -85,7 +85,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 )
 # https://www.gbmb.org/mb-to-bytes
 
-STRING1 = getenv("STRING_SESSION", "BQAacufznBw-xqqHadmzVn9KlfZmiTKsAq-BwMQk892DLNKGiQwxLRUhYPE0iYkVEy9Mfqd1mv2YYDsCikv7Mut1Qnar5uE9F_srXbvloN2GzgXo_DE05m_dt-_lpMVj7mBFVfN9UOofb7bXvpLds2G9eGxU-im6orrVC1KjuI1rQ9qGTyPu9ov3s-X4b0nhoduAmieb5n8dVBpqs-gR3jL100otKQ6fEJbRjl5PFeTcIwcPhVy5zj8m2JBON0Q1CgMkqJdoWnw-kjbqTu4GaiRr5xhjft48x7y0RefhWFUyIIamovHJzizTSutVLoh3GCZSmd_Tpeem0BKoOHswJiqFAAAAAXJkNqUA")
+STRING1 = getenv("STRING_SESSION", "BQAD6CZjNnNlsqzwoIuQ1ponwqzE1LYrkqZBeCvkBXfmypBXuQpVK1KNDPevOlsf3phapyXHRDEcJvuUPkmlp_FRvq8e2KLCvEzQq3x6CCphRM0b-KTGkzYYHdQIDrpNp9FAahT902SWVKQIEzt5SBfi82DBPfAzq3leL5c42c-0oZiLoYlCjlY5SUSLdrED1YM7M-mpFoKjg_FIhO3SMxZ1Uf136sDrG01hM-5N6dS6V-9nIANo1FBrASE37a-QhkClwq1QNCk2sNyRFPnLZZ6DFvtYchdTCSd0ROvpemVHvOHVH4ykukumys4CPvsngYUUWjeGfNL8SJxgjuZX6GQ1AAAAAXJkNqUA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
